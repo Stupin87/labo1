@@ -1,0 +1,4 @@
+# Created by cloud-init v. 23.3.3-0ubuntu0~20.04.1 on Thu, 07 Dec 2023 07:04:58 +0000
+
+# User rules for keglia
+keglia ALL=(ALL) NOPASSWD:ALL
